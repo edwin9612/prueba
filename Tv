@@ -1,0 +1,94 @@
+#EXTM3U
+
+#EXTINF:-1"Bein Sport HD"
+http://tv.nstvlatino.com:25462/grace/123456/3747
+
+#EXTINF:-1"Directv Sport HD"
+http://tv.nstvlatino.com:25462/grace/123456/7863
+
+#EXTINF:-1"Directv Sport SD"
+http://tv.nstvlatino.com:25462/grace/123456/33512
+
+#EXTINF:-1"Directv Sport 2 HD"
+http://tv.nstvlatino.com:25462/grace/123456/32881
+
+#EXTINF:-1"Directv Sport 2 SD"
+http://tv.nstvlatino.com:25462/grace/123456/32882
+
+#EXTINF:-1"Directv Sport Plus HD"
+http://tv.nstvlatino.com:25462/grace/123456/27879
+
+#EXTINF:-1"Directv Sport Plus SD"
+http://tv.nstvlatino.com:25462/grace/123456/8520
+
+#EXTINF:-1"Fox Sport 1 Sur HD"
+http://tv.nstvlatino.com:25462/grace/123456/3612
+
+#EXTINF:-1"Fox Sport 2 Sur HD"
+http://tv.nstvlatino.com:25462/grace/123456/16139
+
+#EXTINF:-1"Fox Sport 3 Sur HD"
+http://tv.nstvlatino.com:25462/grace/123456/33475
+
+#EXTINF:-1"Espn Deportes HD"
+http://tv.nstvlatino.com:25462/grace/123456/3613
+
+#EXTINF:-1"Espn 2 Sur HD"
+http://tv.nstvlatino.com:25462/grace/123456/16410
+
+#EXTINF:-1"Espn 3 Sur HD"
+http://tv.nstvlatino.com:25462/grace/123456/3615
+
+#EXTINF:-1"Gol TV HD"
+http://tv.nstvlatino.com:25462/grace/123456/3755
+
+#EXTINF:-1"Directv Sport "
+http://tv.nstvlatino.com:25462/grace/123456/17180
+
+#EXTINF:-1"Espn 2 Sur Op 1"
+http://tv.nstvlatino.com:25462/grace/123456/16143
+
+#EXTINF:-1"Espn 2 Sur Op 2"
+http://tv.nstvlatino.com:25462/grace/123456/358
+
+#EXTINF:-1"NBC Universo HD"
+http://tv.nstvlatino.com:25462/grace/123456/3757
+
+#EXTINF:-1"Teleamazonas"
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-1"Real Madrid TV SD"
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+
+#EXTINF:-1"Gol TV|Es"
+http://tv.nousiptv.com:25462/Omy/1234/3128
+
+#EXTINF:-1"Real Madrid TV HD"
+http://tv.nousiptv.com:25462/Omy/1234/3689
+
+#EXTINF:-1"Bein Sport Extra"
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+
+#EXTINF:-1"Bein Sport Live"
+http://185.232.53.5:2086/arellano/kgtL965n2Y/352?checkedby:iptvcat.com
+
+#EXTINF:-1"Bein Sport ñ"
+http://uruguayiptv.com:25461/Valeria/Valeria2020/469?checkedby:iptvcat.com
+
+#EXTINF:-1 "Movistar La Liga"
+http://tv.nousiptv.com:25462/Omy/1234/32365
+
+#EXTINF:-1"Gol TV España"
+http://tv.nousiptv.com:25462/Omy/1234/3128
+
+#EXTINF:-1 "Real Madrid TV"
+http://tv.nousiptv.com:25462/Omy/1234/3689
+
+#EXTINF:-1"Bein Sport SD"
+http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/2120
+
+#EXTINF:-1"Directv Sport"
+http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/2121
+
+#EXTINF:-1"TUDN"
+http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/2122
